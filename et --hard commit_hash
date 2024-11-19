@@ -1,0 +1,377 @@
+[33mcommit 8da9fdbec50ec4e70261cdede359ef722e1cf3f2[m[33m ([m[1;36mHEAD -> [m[1;32mdesarrollo[m[33m)[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Nov 18 22:05:58 2024 -0300
+
+    ultimos core ML
+
+[33mcommit 2380c25cabf1a5dfd051aa3867f3501534b9c273[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Fri Nov 15 23:15:12 2024 -0300
+
+    se elimna cvs grande
+
+[33mcommit e4f54ffa81c8cf5350ecc9b2a1172cb1cb3f71d1[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Fri Nov 15 23:10:25 2024 -0300
+
+    ultimas actulaizaciones ML
+
+[33mcommit 45dbe19bf657b0b748891bee70c96a4b16f14fdb[m[33m ([m[1;31morigin/desarrollo[m[33m)[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Nov 14 14:02:22 2024 -0300
+
+    cores de modelos
+
+[33mcommit 7f1872fef1d92400e74aec8a1e51de9f13494b4d[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Tue Nov 12 22:28:44 2024 -0300
+
+    core de ejercicion_regresion1
+
+[33mcommit 8ea0bad9e4e7f1a0fed25e1e3d63f123f3acf875[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Tue Nov 12 18:29:17 2024 -0300
+
+    se agrega practicas de ML y primer core
+
+[33mcommit 10df7fed1584a5c81293f15cf645bf219926cdc9[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Tue Nov 12 14:51:07 2024 -0300
+
+    practicas de ML
+
+[33mcommit 976f5f1bed0699c21311c8a89ecc83f419951568[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Wed Nov 6 15:32:26 2024 -0300
+
+    se agrega seccion de ML
+
+[33mcommit 7235b57c62669b76ca29b8df64e80c32fdb27297[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Tue Oct 29 19:59:57 2024 -0300
+
+    se agregan ultimos cores y practivas de fundamentals
+
+[33mcommit 3d0a9d25cae28b64dd1c87aa15a0496eb3a719f7[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Sat Oct 26 19:17:45 2024 -0300
+
+    se agrega core recreando_grafico
+
+[33mcommit 0ec8ac12175dc12e4f6fb04f55fab2e842e287df[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Sat Oct 26 17:17:27 2024 -0300
+
+    levantar ultimos cambios
+
+[33mcommit 45e5f258fd85e1fca8d3055439d856c2a2d51a3c[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Sat Oct 26 00:24:52 2024 -0300
+
+    Se envia core proyecto 1 parte 4
+
+[33mcommit 6745f56599022b578511630ce00827d1255fd8d5[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Fri Oct 25 20:52:08 2024 -0300
+
+    se levanta core histograma y boxplot
+
+[33mcommit 4327f9087e14f3c4c4a798b699af328362191f07[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 24 10:43:12 2024 -0300
+
+    Se pasa clase boxplot e histogramas
+
+[33mcommit 51e3a0613c53f2c5a357a087d0eed60c61fac58c[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Wed Oct 23 15:07:46 2024 -0300
+
+    Se levanta core de arreglo error graficos
+
+[33mcommit d183046ca02660e297b019100895f967bcc6fcad[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Wed Oct 23 13:14:26 2024 -0300
+
+    core simulacion de examen
+
+[33mcommit 9ffad62cf3ddeeacdbc4428683c187b9c482b16a[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Tue Oct 22 16:04:27 2024 -0300
+
+    modif documentacion
+
+[33mcommit ebedd2b4fff84655cfabd49701864f8ff5f9fcf7[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Tue Oct 22 15:58:57 2024 -0300
+
+    se agrega analisis retail pandas 3
+
+[33mcommit 631231609a912bb6e5c5d84775961506e581c75c[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Tue Oct 22 00:11:27 2024 -0300
+
+    se agrega core de analisis_pandas_kaggle
+
+[33mcommit 5e707c348b8e474512e469c1dc2fb9a1118a1f2c[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 21 20:17:36 2024 -0300
+
+    se agregan nuevas practicas
+
+[33mcommit 18b2daa19776b6bffc97c288287b12c210bf325e[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 21 16:39:06 2024 -0300
+
+    se elimina api key
+
+[33mcommit 9abf07de6a50afb871b1fe9658fe2206152c2996[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 21 15:50:15 2024 -0300
+
+    se agrega core de weather y proyecto1
+
+[33mcommit 272111018405e895764b1969434365757e1d1840[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 21 14:09:37 2024 -0300
+
+    modificaciones en analisis_datos_pandas
+
+[33mcommit 14d6c7aef3b35db89dea4e1f823d078eda009847[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 21 13:39:38 2024 -0300
+
+    se agrega examen
+
+[33mcommit e03e7ac0a0d18d0b9e9d9544b342d2e7dd5f2fc2[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 16:26:13 2024 -0300
+
+    nuevos core subidos
+
+[33mcommit 1531757f4eb004ab94a20f19875372d1db475eec[m
+Merge: 97c3b83 4cc86c9
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 11:27:24 2024 -0300
+
+    Merge branch 'desarrollo' of https://github.com/efleitasalva/bootcampo_coding_dojo_EF into desarrollo
+
+[33mcommit 97c3b8343b3b139575ee5af653bbf78c28ca7740[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 11:17:48 2024 -0300
+
+    rename archivo analisis_prediccion_ventas
+
+[33mcommit 4cc86c9963d3e4c33526c91c8f8046aab58bb2e6[m
+Merge: dcbd69b 30cdce4
+Author: Efleitasalva <69608799+efleitasalva@users.noreply.github.com>
+Date:   Thu Oct 17 11:03:07 2024 -0300
+
+    Merge pull request #6 from efleitasalva/master
+    
+    Mergeo ultimos cambios
+
+[33mcommit dcbd69bb72c4e6014f24f756445d1a355e33b982[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 11:00:56 2024 -0300
+
+    eliminar carpeta
+
+[33mcommit 7e8a184caf9a18b4324c2cf821d91f323915e97b[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:48:22 2024 -0300
+
+    eliminar
+
+[33mcommit 42ba0369e9f2d37fdb496227a7abf73838c5b6b6[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:44:27 2024 -0300
+
+    eliminar carpeta
+
+[33mcommit 30cdce4caa6b5e64833f3b2d372c0056e37ea8bc[m
+Merge: 90672e8 25c3499
+Author: Efleitasalva <69608799+efleitasalva@users.noreply.github.com>
+Date:   Thu Oct 17 10:36:19 2024 -0300
+
+    Merge pull request #5 from efleitasalva/desarrollo
+    
+    se mergea ultimos cambios
+
+[33mcommit 25c34994cca28f119e889abf78c2d83607cae3eb[m
+Merge: 8d81c94 038ec41
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:35:06 2024 -0300
+
+    Merge branch 'desarrollo' of https://github.com/efleitasalva/bootcampo_coding_dojo_EF into desarrollo
+
+[33mcommit 8d81c949abfeb87ea1d2575191d132011343fd84[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:34:01 2024 -0300
+
+    ultimo commit
+
+[33mcommit 038ec4176212ca27c8e63447f7a2f7472abbc99c[m
+Merge: 6786d6f 1a7b0fd
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:33:51 2024 -0300
+
+    Merge branch 'desarrollo' of https://github.com/efleitasalva/bootcampo_coding_dojo_EF into desarrollo
+
+[33mcommit 6786d6f64175209712a21d4826381e36c8a17572[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:33:45 2024 -0300
+
+    se elimna linea comentada
+
+[33mcommit 1a7b0fd1335cebe1f52e9524887c394d92275085[m
+Merge: 07af56b db93e6d
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:31:11 2024 -0300
+
+    Merge branch 'desarrollo' of https://github.com/efleitasalva/bootcampo_coding_dojo_EF into desarrollo
+
+[33mcommit 07af56bd110c318145ff25988733d69402fb99c1[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:31:04 2024 -0300
+
+    ultimo cambio
+
+[33mcommit db93e6da222b99f1af3bb1ba6a32de8a72826e8b[m
+Merge: f334614 ff34f06
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:30:19 2024 -0300
+
+    Merge branch 'desarrollo' of https://github.com/efleitasalva/bootcampo_coding_dojo_EF into desarrollo
+
+[33mcommit f3346149fbc8b715edcb32baed405d7916a538d1[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:28:24 2024 -0300
+
+    ultimos cambios
+
+[33mcommit 8b146986c46690c19b6ac94742a611b4c4f8fa02[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:28:10 2024 -0300
+
+    push nuevos cambios
+
+[33mcommit 49516257df6c8baf2766f21747b416847eac807f[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:20:11 2024 -0300
+
+    se modifica path
+
+[33mcommit ff34f067d2a996a056c822a60e7c1092fd993c95[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:20:02 2024 -0300
+
+    se elimina cambio con error
+
+[33mcommit 693c1bc9e04d9bd6513b5a83cf8f7e7faad285b9[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:16:21 2024 -0300
+
+    se agrega dataset
+
+[33mcommit e1b236bde618a19908f2b5807d3e7b3aa5be5d1b[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Thu Oct 17 10:11:33 2024 -0300
+
+    se agrega dataset en proyecto
+
+[33mcommit 90672e8419db012dccbcb26d127139bb9c96b1ce[m
+Merge: bdd8931 75c9efb
+Author: Efleitasalva <69608799+efleitasalva@users.noreply.github.com>
+Date:   Wed Oct 16 22:50:33 2024 -0300
+
+    Merge pull request #4 from efleitasalva/desarrollo
+    
+    ultimas modificaciones a los core
+
+[33mcommit 75c9efb9150f104e3f32f7f7227b716210e7c85e[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Wed Oct 16 22:48:18 2024 -0300
+
+    ultimas modificaciones a los core
+
+[33mcommit bdd8931a28b724004791ae0ecea7640fcc1878de[m
+Merge: 53992ba 0ae4847
+Author: Efleitasalva <69608799+efleitasalva@users.noreply.github.com>
+Date:   Sun Oct 13 14:55:42 2024 -0300
+
+    Merge pull request #3 from efleitasalva/desarrollo
+    
+    actualizacion readme y creacion rama desarrollo
+
+[33mcommit 0ae484733e3c84ecacd38d634eee04d066d96c95[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Sun Oct 13 14:54:39 2024 -0300
+
+    actualizacion readme
+
+[33mcommit 53992ba25efd7fecc7bd5f13d5c1e4f90224b0df[m
+Merge: f5c0943 ec41ad5
+Author: Efleitasalva <69608799+efleitasalva@users.noreply.github.com>
+Date:   Sun Oct 13 14:50:26 2024 -0300
+
+    Merge pull request #2 from efleitasalva/main
+    
+    Creacion rama Main
+
+[33mcommit ec41ad595691bc4084928a5c71be2c2ee5da4ea6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Sun Oct 13 14:48:41 2024 -0300
+
+    creacion de rama main
+
+[33mcommit 9d320684f370c03c1f371a67250a43374c1fddad[m[33m ([m[1;31morigin/first_branch[m[33m)[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Sat Oct 12 15:44:29 2024 -0300
+
+    semana_2
+
+[33mcommit f5c094398b0c08fd8486b7eec6abdf86fe8604f9[m
+Merge: e1afee2 5a274ed
+Author: Efleitasalva <69608799+efleitasalva@users.noreply.github.com>
+Date:   Mon Oct 7 18:32:58 2024 -0300
+
+    Merge pull request #1 from efleitasalva/first_branch
+    
+    crear archivo de nueva rama
+
+[33mcommit 5a274ed9142d02ba2659964ab5a42e062e185a3d[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 7 18:32:03 2024 -0300
+
+    crear archivo de nueva rama
+
+[33mcommit e1afee2a4e5bd90333391d5532dee3578d562b2f[m
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 7 18:27:42 2024 -0300
+
+    eliminar archivo incorrecto
+
+[33mcommit 9f72f25a3fe5986eeb3ef0cb66ab2e74c0c7ff24[m
+Merge: 11c9146 1beb024
+Author: efleitasalva <ejfleitas@gmail.com>
+Date:   Mon Oct 7 18:25:20 2024 -0300
+
+    Merge branch 'master' of https://github.com/efleitasalva/bootcampo_coding_dojo_EF
+
+[33mcommit 11c9146c915f7a0bfd455b8529b1cf8b0b1bc341[m
+Author: Enrique <ejfleitas@gmail.com>
+Date:   Mon Oct 7 18:09:14 2024 -0300
+
+    archivo de prueba
+
+[33mcommit 1beb024dba16df2c35c22a2fcbad6870c7c8a78a[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Enrique <ejfleitas@gmail.com>
+Date:   Mon Oct 7 18:01:20 2024 -0300
+
+    first commit
+
+[33mcommit 072cfbfde6f38ae298e80635b10c4a003cc37dd8[m[33m ([m[1;32mprimera_rama[m[33m)[m
+Author: Enrique <ejfleitas@gmail.com>
+Date:   Mon Oct 7 17:57:10 2024 -0300
+
+    Primer commit: Anhadir README

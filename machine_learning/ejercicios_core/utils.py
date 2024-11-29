@@ -14,6 +14,9 @@ def exploracion_inicial(df):
     ##Imprime ultimas 5 filas
     print("nÚltimas 5 filas del DataFrame:")
     print(df.tail(5))
+    # Imprimir cantidad de filas y columnas del dataset
+    print("Cantidad de filas: ", df.shape[0])
+    print("Cantidad de columnas: ", df.shape[1])
 # Identificar valores faltantes
 def identificar_valores_faltantes(df):
     print("Valores faltantes en el dataset")
@@ -72,9 +75,7 @@ def estadisticas_descriptivas(df):
         print(f"\n{column}:")
         for measure, value in stats.items():
             print(f"  {measure}: {value}")
-    # Imprimir cantidad de filas y columnas del dataset
-    print("Cantidad de filas: ", df.shape[0])
-    print("Cantidad de columnas: ", df.shape[1])
+    
 ### Verificacion de outliers
 def plot_grafico_outliers(num_features,nrows, ncols, df):
     # Ajustar dinámicamente el tamaño de la figura
